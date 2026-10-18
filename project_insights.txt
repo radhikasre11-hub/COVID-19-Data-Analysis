@@ -1,0 +1,21 @@
+# COVID-19 Data Analysis — Key Insights
+
+## 1. Top 10 Countries
+The bar chart identifies the countries with the highest recorded confirmed COVID-19 cases in the selected dataset. It helps compare the reported case burden across countries.
+
+## 2. India's COVID-19 Statistics
+The India statistics chart compares confirmed cases, deaths, and recoveries. These indicators summarize the reported COVID-19 impact in India.
+
+## 3. India's Daily COVID-19 Cases
+The daily cases line chart shows changes in reported new cases over the available dates. Peaks indicate periods when the dataset records higher daily case counts.
+
+## 4. Seven-Day Rolling Average
+The rolling-average chart smooths daily fluctuations and makes the overall trend easier to observe. It helps distinguish broader changes from short-term variations in reported cases.
+
+## 5. Country Comparison
+The comparison chart presents confirmed cases, deaths, and recoveries for India, the United States, and China. Differences should be interpreted in the context of reporting practices and the dates covered by the data.
+
+## Conclusion
+This project demonstrates the use of Python, Pandas, and Matplotlib to clean, analyze, and visualize COVID-19 data. The visualizations make country-level statistics and India's daily case trends easier to understand.
+
+Note: Findings describe the supplied dataset and should not be treated as current COVID-19 statistics.
